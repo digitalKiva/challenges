@@ -1,4 +1,4 @@
-src:
+src: https://leetcode.com/problems/sort-array-by-parity/
 
 # Sort Array by Parity
 Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
