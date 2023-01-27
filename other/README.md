@@ -1,0 +1,1 @@
+# other challenges either dreamed up or found in different places
